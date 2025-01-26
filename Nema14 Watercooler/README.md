@@ -1,1 +1,1 @@
-It's a nema14 watercooler, fits onto the back of the nema14. Meant to be tapped, with parametric parameters to change the effective standoff length
+It's a nema14 watercooler, fits onto the back of the nema14 with 50mm SHCS/BHCS assuming 52mm body
